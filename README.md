@@ -21,8 +21,14 @@ demand for parts/equipment can be locally sourced.
 
 **Buyers**: Hospitals
 
-**Supplyers**: Anyone who can manufacture (local makers)
+**Suppliers**: Anyone who can manufacture (local makers)
 
 ![platform flow](/img/platform_flow.png)
+
+## Example Videos
+
+
+<video src="img/Quarantine_hackers_video.mp4 width="320" height="240" controls></video>
+
 
 
